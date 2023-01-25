@@ -13,3 +13,9 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+## Adding To do lists 
+- [ ] First item
+- [ ] Second item
+- [ ] Third item
+- [ ] Fourth item 
